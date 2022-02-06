@@ -5,7 +5,7 @@ export default function ImageLinkForm({onInputChange, onButtonSubmit}) {
     return (
         <div>
             <p className="f3">
-                {'FaceScan App will detect faces in your pictures. Give it a try!'}
+                {'Lorem ipsum'}
             </p>
             <div className="pa4 br3 shadow-5 form center">
                 <input className="f4 pa2 w-70 center" type="text" onChange={onInputChange} />

@@ -81,13 +81,13 @@ console.log('click')
               enable: true,
               outMode: "bounce",
               random: false,
-              speed: 3,
+              speed: 1.5,
               straight: false,
             },
             number: {
               density: {
                 enable: true,
-                area: 800,
+                area: 700,
               },
               value: 80,
             },
